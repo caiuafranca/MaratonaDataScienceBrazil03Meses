@@ -20,3 +20,10 @@ sobrenome = 'França'
 
 # Concatenar String
 print ("{} {} seja bem vindo ao Sistema!".format(nome, sobrenome))
+
+test = 'lib, lib, lin'
+
+# REPLACE STRING LIB POR LAB
+teste2 = test.replace('lib','lab')
+
+print(teste2)
