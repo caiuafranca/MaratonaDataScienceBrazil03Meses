@@ -22,6 +22,6 @@ if sugestaoLampada01 == lampada01 and sugestaoLampada02 == lampada02:
 else:
   print('Desculpe você foi infeliz nas suas escolhas! kkkkkkkkk')
   print("Lampada 01: {}".format(lampada01))
-  print("Lampada 01: {}".format(lampada02))
+  print("Lampada 02: {}".format(lampada02))
 
 
